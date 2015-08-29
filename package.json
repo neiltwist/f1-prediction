@@ -1,0 +1,22 @@
+{
+  "name": "project_environment",
+  "version": "0.0.0",
+  "description": "A stubbed project for the React+d3.js book",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swizec Teller",
+  "license": "MIT",
+  "devDependencies": {
+    "debowerify": "^1.2.0",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.5.0",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jit-grunt": "^0.9.1",
+    "node-gyp": "^1.0.3",
+    "reactify": "^1.1.0",
+    "restify": "^3.0.0"
+  }
+}

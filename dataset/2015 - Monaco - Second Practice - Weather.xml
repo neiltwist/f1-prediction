@@ -1,0 +1,561 @@
+<?xml version="1.0"?>
+<report racetitle="FORMULA 1 GRAND PRIX DE MONACO 2015 - Monte-Carlo" title="Second Practice Session" copyrightdisclaimer= "No part of these results/data may be reproduced, stored in a retrieval system or transmitted in any form or by any means electronic, mechanical, photocopying, recording, broadcasting or otherwise without prior permission of the copyright holder except for reproduction in local/national/international daily press and regular printed publications on sale to the public within 90 days of the event to which the results/data relate and provided that the copyright symbol appears together with the address shown below. The F1 FORMULA 1 logo, F1 logo, F1 FIA FORMULA 1 WORLD CHAMPIONSHIP logo, FORMULA 1, FORMULA ONE, F1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing BV, a Formula One group company." copyrightaddress="&#169; 2015 Formula One World Championship Ltd, 6 Princes Gate, London, SW7 1QJ, England.">
+<airpressure>
+<reading time="14:00:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:01:00.0000 21 May 2015" value="1012.9" />
+<reading time="14:02:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:03:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:04:00.0000 21 May 2015" value="1012.9" />
+<reading time="14:05:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:06:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:07:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:08:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:09:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:10:00.0000 21 May 2015" value="1012.9" />
+<reading time="14:11:00.0000 21 May 2015" value="1012.9" />
+<reading time="14:12:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:13:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:14:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:15:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:16:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:17:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:18:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:19:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:20:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:21:00.0000 21 May 2015" value="1012.8" />
+<reading time="14:22:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:23:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:24:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:25:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:26:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:27:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:28:00.0000 21 May 2015" value="1013.3" />
+<reading time="14:29:00.0000 21 May 2015" value="1013.3" />
+<reading time="14:30:00.0000 21 May 2015" value="1013.3" />
+<reading time="14:31:00.0000 21 May 2015" value="1013.3" />
+<reading time="14:32:00.0000 21 May 2015" value="1013.4" />
+<reading time="14:33:00.0000 21 May 2015" value="1013.4" />
+<reading time="14:34:00.0000 21 May 2015" value="1013.4" />
+<reading time="14:35:00.0000 21 May 2015" value="1013.4" />
+<reading time="14:36:00.0000 21 May 2015" value="1013.4" />
+<reading time="14:37:00.0000 21 May 2015" value="1013.4" />
+<reading time="14:38:00.0000 21 May 2015" value="1013.3" />
+<reading time="14:39:00.0000 21 May 2015" value="1013.4" />
+<reading time="14:40:00.0000 21 May 2015" value="1013.3" />
+<reading time="14:41:00.0000 21 May 2015" value="1013.3" />
+<reading time="14:42:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:43:00.0000 21 May 2015" value="1013.3" />
+<reading time="14:44:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:45:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:46:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:47:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:48:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:49:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:50:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:51:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:52:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:53:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:54:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:55:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:56:00.0000 21 May 2015" value="1013.1" />
+<reading time="14:57:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:58:00.0000 21 May 2015" value="1013.2" />
+<reading time="14:59:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:00:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:01:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:02:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:03:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:04:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:05:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:06:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:07:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:08:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:09:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:10:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:11:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:12:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:13:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:14:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:15:00.0000 21 May 2015" value="1013.2" />
+<reading time="15:16:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:17:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:18:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:19:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:20:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:21:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:22:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:23:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:24:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:25:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:26:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:27:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:28:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:29:00.0000 21 May 2015" value="1013.3" />
+<reading time="15:30:00.0000 21 May 2015" value="1013.3" />
+</airpressure>
+<rainfall>
+<reading time="14:00:00.0000 21 May 2015" value="0" />
+<reading time="14:01:00.0000 21 May 2015" value="0" />
+<reading time="14:02:00.0000 21 May 2015" value="0" />
+<reading time="14:03:00.0000 21 May 2015" value="0" />
+<reading time="14:04:00.0000 21 May 2015" value="0" />
+<reading time="14:05:00.0000 21 May 2015" value="0" />
+<reading time="14:06:00.0000 21 May 2015" value="0" />
+<reading time="14:07:00.0000 21 May 2015" value="0" />
+<reading time="14:08:00.0000 21 May 2015" value="0" />
+<reading time="14:09:00.0000 21 May 2015" value="0" />
+<reading time="14:10:00.0000 21 May 2015" value="0" />
+<reading time="14:11:00.0000 21 May 2015" value="0" />
+<reading time="14:12:00.0000 21 May 2015" value="0" />
+<reading time="14:13:00.0000 21 May 2015" value="0" />
+<reading time="14:14:00.0000 21 May 2015" value="0" />
+<reading time="14:15:00.0000 21 May 2015" value="0" />
+<reading time="14:16:00.0000 21 May 2015" value="0" />
+<reading time="14:17:00.0000 21 May 2015" value="0" />
+<reading time="14:18:00.0000 21 May 2015" value="0" />
+<reading time="14:19:00.0000 21 May 2015" value="0" />
+<reading time="14:20:00.0000 21 May 2015" value="0" />
+<reading time="14:21:00.0000 21 May 2015" value="0" />
+<reading time="14:22:00.0000 21 May 2015" value="0" />
+<reading time="14:23:00.0000 21 May 2015" value="0" />
+<reading time="14:24:00.0000 21 May 2015" value="0" />
+<reading time="14:25:00.0000 21 May 2015" value="0" />
+<reading time="14:26:00.0000 21 May 2015" value="0" />
+<reading time="14:27:00.0000 21 May 2015" value="1" />
+<reading time="14:28:00.0000 21 May 2015" value="1" />
+<reading time="14:29:00.0000 21 May 2015" value="1" />
+<reading time="14:30:00.0000 21 May 2015" value="1" />
+<reading time="14:31:00.0000 21 May 2015" value="1" />
+<reading time="14:32:00.0000 21 May 2015" value="1" />
+<reading time="14:33:00.0000 21 May 2015" value="1" />
+<reading time="14:34:00.0000 21 May 2015" value="1" />
+<reading time="14:35:00.0000 21 May 2015" value="1" />
+<reading time="14:36:00.0000 21 May 2015" value="1" />
+<reading time="14:37:00.0000 21 May 2015" value="1" />
+<reading time="14:38:00.0000 21 May 2015" value="1" />
+<reading time="14:39:00.0000 21 May 2015" value="1" />
+<reading time="14:40:00.0000 21 May 2015" value="1" />
+<reading time="14:41:00.0000 21 May 2015" value="1" />
+<reading time="14:42:00.0000 21 May 2015" value="1" />
+<reading time="14:43:00.0000 21 May 2015" value="1" />
+<reading time="14:44:00.0000 21 May 2015" value="1" />
+<reading time="14:45:00.0000 21 May 2015" value="0" />
+<reading time="14:46:00.0000 21 May 2015" value="1" />
+<reading time="14:47:00.0000 21 May 2015" value="1" />
+<reading time="14:48:00.0000 21 May 2015" value="1" />
+<reading time="14:49:00.0000 21 May 2015" value="1" />
+<reading time="14:50:00.0000 21 May 2015" value="1" />
+<reading time="14:51:00.0000 21 May 2015" value="1" />
+<reading time="14:52:00.0000 21 May 2015" value="1" />
+<reading time="14:53:00.0000 21 May 2015" value="0" />
+<reading time="14:54:00.0000 21 May 2015" value="0" />
+<reading time="14:55:00.0000 21 May 2015" value="0" />
+<reading time="14:56:00.0000 21 May 2015" value="0" />
+<reading time="14:57:00.0000 21 May 2015" value="0" />
+<reading time="14:58:00.0000 21 May 2015" value="0" />
+<reading time="14:59:00.0000 21 May 2015" value="0" />
+<reading time="15:00:00.0000 21 May 2015" value="0" />
+<reading time="15:01:00.0000 21 May 2015" value="0" />
+<reading time="15:02:00.0000 21 May 2015" value="0" />
+<reading time="15:03:00.0000 21 May 2015" value="0" />
+<reading time="15:04:00.0000 21 May 2015" value="0" />
+<reading time="15:05:00.0000 21 May 2015" value="0" />
+<reading time="15:06:00.0000 21 May 2015" value="0" />
+<reading time="15:07:00.0000 21 May 2015" value="0" />
+<reading time="15:08:00.0000 21 May 2015" value="0" />
+<reading time="15:09:00.0000 21 May 2015" value="0" />
+<reading time="15:10:00.0000 21 May 2015" value="0" />
+<reading time="15:11:00.0000 21 May 2015" value="0" />
+<reading time="15:12:00.0000 21 May 2015" value="0" />
+<reading time="15:13:00.0000 21 May 2015" value="0" />
+<reading time="15:14:00.0000 21 May 2015" value="0" />
+<reading time="15:15:00.0000 21 May 2015" value="0" />
+<reading time="15:16:00.0000 21 May 2015" value="0" />
+<reading time="15:17:00.0000 21 May 2015" value="0" />
+<reading time="15:18:00.0000 21 May 2015" value="0" />
+<reading time="15:19:00.0000 21 May 2015" value="0" />
+<reading time="15:20:00.0000 21 May 2015" value="0" />
+<reading time="15:21:00.0000 21 May 2015" value="0" />
+<reading time="15:22:00.0000 21 May 2015" value="0" />
+<reading time="15:23:00.0000 21 May 2015" value="0" />
+<reading time="15:24:00.0000 21 May 2015" value="0" />
+<reading time="15:25:00.0000 21 May 2015" value="0" />
+<reading time="15:26:00.0000 21 May 2015" value="0" />
+<reading time="15:27:00.0000 21 May 2015" value="0" />
+<reading time="15:28:00.0000 21 May 2015" value="0" />
+<reading time="15:29:00.0000 21 May 2015" value="0" />
+<reading time="15:30:00.0000 21 May 2015" value="0" />
+</rainfall>
+<windspeed>
+<reading time="14:00:00.0000 21 May 2015" value="2.5" />
+<reading time="14:01:00.0000 21 May 2015" value="3" />
+<reading time="14:02:00.0000 21 May 2015" value="3.2" />
+<reading time="14:03:00.0000 21 May 2015" value="3.2" />
+<reading time="14:04:00.0000 21 May 2015" value="0.8" />
+<reading time="14:05:00.0000 21 May 2015" value="1.7" />
+<reading time="14:06:00.0000 21 May 2015" value="1.2" />
+<reading time="14:07:00.0000 21 May 2015" value="1.6" />
+<reading time="14:08:00.0000 21 May 2015" value="2" />
+<reading time="14:09:00.0000 21 May 2015" value="1.8" />
+<reading time="14:10:00.0000 21 May 2015" value="1.9" />
+<reading time="14:11:00.0000 21 May 2015" value="1.7" />
+<reading time="14:12:00.0000 21 May 2015" value="3.6" />
+<reading time="14:13:00.0000 21 May 2015" value="3.6" />
+<reading time="14:14:00.0000 21 May 2015" value="3.6" />
+<reading time="14:15:00.0000 21 May 2015" value="3.6" />
+<reading time="14:16:00.0000 21 May 2015" value="3.6" />
+<reading time="14:17:00.0000 21 May 2015" value="3.6" />
+<reading time="14:18:00.0000 21 May 2015" value="3.6" />
+<reading time="14:19:00.0000 21 May 2015" value="3.6" />
+<reading time="14:20:00.0000 21 May 2015" value="3.6" />
+<reading time="14:21:00.0000 21 May 2015" value="3.6" />
+<reading time="14:22:00.0000 21 May 2015" value="1.9" />
+<reading time="14:23:00.0000 21 May 2015" value="1" />
+<reading time="14:24:00.0000 21 May 2015" value="4.6" />
+<reading time="14:25:00.0000 21 May 2015" value="4.6" />
+<reading time="14:26:00.0000 21 May 2015" value="1.3" />
+<reading time="14:27:00.0000 21 May 2015" value="0.8" />
+<reading time="14:28:00.0000 21 May 2015" value="1.2" />
+<reading time="14:29:00.0000 21 May 2015" value="1.5" />
+<reading time="14:30:00.0000 21 May 2015" value="0.7" />
+<reading time="14:31:00.0000 21 May 2015" value="0.9" />
+<reading time="14:32:00.0000 21 May 2015" value="0.8" />
+<reading time="14:33:00.0000 21 May 2015" value="1.3" />
+<reading time="14:34:00.0000 21 May 2015" value="1.2" />
+<reading time="14:35:00.0000 21 May 2015" value="1.2" />
+<reading time="14:36:00.0000 21 May 2015" value="1.2" />
+<reading time="14:37:00.0000 21 May 2015" value="1.1" />
+<reading time="14:38:00.0000 21 May 2015" value="2.2" />
+<reading time="14:39:00.0000 21 May 2015" value="1.2" />
+<reading time="14:40:00.0000 21 May 2015" value="1" />
+<reading time="14:41:00.0000 21 May 2015" value="1.8" />
+<reading time="14:42:00.0000 21 May 2015" value="2.7" />
+<reading time="14:43:00.0000 21 May 2015" value="2" />
+<reading time="14:44:00.0000 21 May 2015" value="1.1" />
+<reading time="14:45:00.0000 21 May 2015" value="1.5" />
+<reading time="14:46:00.0000 21 May 2015" value="1.9" />
+<reading time="14:47:00.0000 21 May 2015" value="1.7" />
+<reading time="14:48:00.0000 21 May 2015" value="1.6" />
+<reading time="14:49:00.0000 21 May 2015" value="1.8" />
+<reading time="14:50:00.0000 21 May 2015" value="1" />
+<reading time="14:51:00.0000 21 May 2015" value="2.1" />
+<reading time="14:52:00.0000 21 May 2015" value="1.3" />
+<reading time="14:53:00.0000 21 May 2015" value="1.3" />
+<reading time="14:54:00.0000 21 May 2015" value="1" />
+<reading time="14:55:00.0000 21 May 2015" value="1.3" />
+<reading time="14:56:00.0000 21 May 2015" value="0.9" />
+<reading time="14:57:00.0000 21 May 2015" value="1.5" />
+<reading time="14:58:00.0000 21 May 2015" value="1.7" />
+<reading time="14:59:00.0000 21 May 2015" value="0.6" />
+<reading time="15:00:00.0000 21 May 2015" value="0.7" />
+<reading time="15:01:00.0000 21 May 2015" value="0.6" />
+<reading time="15:02:00.0000 21 May 2015" value="0.7" />
+<reading time="15:03:00.0000 21 May 2015" value="1.1" />
+<reading time="15:04:00.0000 21 May 2015" value="0.8" />
+<reading time="15:05:00.0000 21 May 2015" value="0.8" />
+<reading time="15:06:00.0000 21 May 2015" value="0.8" />
+<reading time="15:07:00.0000 21 May 2015" value="1.1" />
+<reading time="15:08:00.0000 21 May 2015" value="0.5" />
+<reading time="15:09:00.0000 21 May 2015" value="0.8" />
+<reading time="15:10:00.0000 21 May 2015" value="1.3" />
+<reading time="15:11:00.0000 21 May 2015" value="1.1" />
+<reading time="15:12:00.0000 21 May 2015" value="1" />
+<reading time="15:13:00.0000 21 May 2015" value="1" />
+<reading time="15:14:00.0000 21 May 2015" value="2.8" />
+<reading time="15:15:00.0000 21 May 2015" value="1.4" />
+<reading time="15:16:00.0000 21 May 2015" value="1.7" />
+<reading time="15:17:00.0000 21 May 2015" value="2.2" />
+<reading time="15:18:00.0000 21 May 2015" value="1.3" />
+<reading time="15:19:00.0000 21 May 2015" value="2.6" />
+<reading time="15:20:00.0000 21 May 2015" value="1.9" />
+<reading time="15:21:00.0000 21 May 2015" value="1.7" />
+<reading time="15:22:00.0000 21 May 2015" value="2.7" />
+<reading time="15:23:00.0000 21 May 2015" value="1.9" />
+<reading time="15:24:00.0000 21 May 2015" value="1.3" />
+<reading time="15:25:00.0000 21 May 2015" value="2.5" />
+<reading time="15:26:00.0000 21 May 2015" value="2.1" />
+<reading time="15:27:00.0000 21 May 2015" value="2.4" />
+<reading time="15:28:00.0000 21 May 2015" value="2.1" />
+<reading time="15:29:00.0000 21 May 2015" value="2.3" />
+<reading time="15:30:00.0000 21 May 2015" value="1.9" />
+</windspeed>
+<winddirection>
+<reading time="14:00:00.0000 21 May 2015" value="35" />
+<reading time="14:01:00.0000 21 May 2015" value="33" />
+<reading time="14:02:00.0000 21 May 2015" value="68" />
+<reading time="14:03:00.0000 21 May 2015" value="68" />
+<reading time="14:04:00.0000 21 May 2015" value="72" />
+<reading time="14:05:00.0000 21 May 2015" value="52" />
+<reading time="14:06:00.0000 21 May 2015" value="331" />
+<reading time="14:07:00.0000 21 May 2015" value="28" />
+<reading time="14:08:00.0000 21 May 2015" value="48" />
+<reading time="14:09:00.0000 21 May 2015" value="61" />
+<reading time="14:10:00.0000 21 May 2015" value="337" />
+<reading time="14:11:00.0000 21 May 2015" value="341" />
+<reading time="14:12:00.0000 21 May 2015" value="40" />
+<reading time="14:13:00.0000 21 May 2015" value="40" />
+<reading time="14:14:00.0000 21 May 2015" value="40" />
+<reading time="14:15:00.0000 21 May 2015" value="40" />
+<reading time="14:16:00.0000 21 May 2015" value="40" />
+<reading time="14:17:00.0000 21 May 2015" value="40" />
+<reading time="14:18:00.0000 21 May 2015" value="40" />
+<reading time="14:19:00.0000 21 May 2015" value="40" />
+<reading time="14:20:00.0000 21 May 2015" value="40" />
+<reading time="14:21:00.0000 21 May 2015" value="40" />
+<reading time="14:22:00.0000 21 May 2015" value="80" />
+<reading time="14:23:00.0000 21 May 2015" value="128" />
+<reading time="14:24:00.0000 21 May 2015" value="77" />
+<reading time="14:25:00.0000 21 May 2015" value="77" />
+<reading time="14:26:00.0000 21 May 2015" value="15" />
+<reading time="14:27:00.0000 21 May 2015" value="91" />
+<reading time="14:28:00.0000 21 May 2015" value="50" />
+<reading time="14:29:00.0000 21 May 2015" value="45" />
+<reading time="14:30:00.0000 21 May 2015" value="148" />
+<reading time="14:31:00.0000 21 May 2015" value="215" />
+<reading time="14:32:00.0000 21 May 2015" value="221" />
+<reading time="14:33:00.0000 21 May 2015" value="268" />
+<reading time="14:34:00.0000 21 May 2015" value="9" />
+<reading time="14:35:00.0000 21 May 2015" value="53" />
+<reading time="14:36:00.0000 21 May 2015" value="53" />
+<reading time="14:37:00.0000 21 May 2015" value="359" />
+<reading time="14:38:00.0000 21 May 2015" value="34" />
+<reading time="14:39:00.0000 21 May 2015" value="37" />
+<reading time="14:40:00.0000 21 May 2015" value="319" />
+<reading time="14:41:00.0000 21 May 2015" value="50" />
+<reading time="14:42:00.0000 21 May 2015" value="55" />
+<reading time="14:43:00.0000 21 May 2015" value="86" />
+<reading time="14:44:00.0000 21 May 2015" value="308" />
+<reading time="14:45:00.0000 21 May 2015" value="44" />
+<reading time="14:46:00.0000 21 May 2015" value="50" />
+<reading time="14:47:00.0000 21 May 2015" value="79" />
+<reading time="14:48:00.0000 21 May 2015" value="50" />
+<reading time="14:49:00.0000 21 May 2015" value="76" />
+<reading time="14:50:00.0000 21 May 2015" value="43" />
+<reading time="14:51:00.0000 21 May 2015" value="73" />
+<reading time="14:52:00.0000 21 May 2015" value="49" />
+<reading time="14:53:00.0000 21 May 2015" value="91" />
+<reading time="14:54:00.0000 21 May 2015" value="84" />
+<reading time="14:55:00.0000 21 May 2015" value="48" />
+<reading time="14:56:00.0000 21 May 2015" value="54" />
+<reading time="14:57:00.0000 21 May 2015" value="64" />
+<reading time="14:58:00.0000 21 May 2015" value="54" />
+<reading time="14:59:00.0000 21 May 2015" value="85" />
+<reading time="15:00:00.0000 21 May 2015" value="16" />
+<reading time="15:01:00.0000 21 May 2015" value="72" />
+<reading time="15:02:00.0000 21 May 2015" value="206" />
+<reading time="15:03:00.0000 21 May 2015" value="223" />
+<reading time="15:04:00.0000 21 May 2015" value="236" />
+<reading time="15:05:00.0000 21 May 2015" value="249" />
+<reading time="15:06:00.0000 21 May 2015" value="249" />
+<reading time="15:07:00.0000 21 May 2015" value="200" />
+<reading time="15:08:00.0000 21 May 2015" value="210" />
+<reading time="15:09:00.0000 21 May 2015" value="236" />
+<reading time="15:10:00.0000 21 May 2015" value="263" />
+<reading time="15:11:00.0000 21 May 2015" value="218" />
+<reading time="15:12:00.0000 21 May 2015" value="37" />
+<reading time="15:13:00.0000 21 May 2015" value="317" />
+<reading time="15:14:00.0000 21 May 2015" value="307" />
+<reading time="15:15:00.0000 21 May 2015" value="289" />
+<reading time="15:16:00.0000 21 May 2015" value="333" />
+<reading time="15:17:00.0000 21 May 2015" value="344" />
+<reading time="15:18:00.0000 21 May 2015" value="338" />
+<reading time="15:19:00.0000 21 May 2015" value="327" />
+<reading time="15:20:00.0000 21 May 2015" value="313" />
+<reading time="15:21:00.0000 21 May 2015" value="292" />
+<reading time="15:22:00.0000 21 May 2015" value="320" />
+<reading time="15:23:00.0000 21 May 2015" value="328" />
+<reading time="15:24:00.0000 21 May 2015" value="331" />
+<reading time="15:25:00.0000 21 May 2015" value="316" />
+<reading time="15:26:00.0000 21 May 2015" value="336" />
+<reading time="15:27:00.0000 21 May 2015" value="328" />
+<reading time="15:28:00.0000 21 May 2015" value="308" />
+<reading time="15:29:00.0000 21 May 2015" value="325" />
+<reading time="15:30:00.0000 21 May 2015" value="352" />
+</winddirection>
+<temperature>
+<reading time="14:00:00.0000 21 May 2015" tracktemperature="22" airtemperature="15.1" />
+<reading time="14:01:00.0000 21 May 2015" tracktemperature="22.2" airtemperature="15.1" />
+<reading time="14:02:00.0000 21 May 2015" tracktemperature="22.4" airtemperature="15.2" />
+<reading time="14:03:00.0000 21 May 2015" tracktemperature="22.4" airtemperature="15.2" />
+<reading time="14:04:00.0000 21 May 2015" tracktemperature="22.6" airtemperature="15.3" />
+<reading time="14:05:00.0000 21 May 2015" tracktemperature="22.8" airtemperature="15.4" />
+<reading time="14:06:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.4" />
+<reading time="14:07:00.0000 21 May 2015" tracktemperature="23.5" airtemperature="15.5" />
+<reading time="14:08:00.0000 21 May 2015" tracktemperature="23.8" airtemperature="15.5" />
+<reading time="14:09:00.0000 21 May 2015" tracktemperature="23.8" airtemperature="15.5" />
+<reading time="14:10:00.0000 21 May 2015" tracktemperature="23.5" airtemperature="15.6" />
+<reading time="14:11:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.5" />
+<reading time="14:12:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:13:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:14:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:15:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:16:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:17:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:18:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:19:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:20:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:21:00.0000 21 May 2015" tracktemperature="23" airtemperature="15.3" />
+<reading time="14:22:00.0000 21 May 2015" tracktemperature="21.6" airtemperature="15.5" />
+<reading time="14:23:00.0000 21 May 2015" tracktemperature="21.5" airtemperature="15.4" />
+<reading time="14:24:00.0000 21 May 2015" tracktemperature="21.7" airtemperature="15.4" />
+<reading time="14:25:00.0000 21 May 2015" tracktemperature="21.7" airtemperature="15.4" />
+<reading time="14:26:00.0000 21 May 2015" tracktemperature="21.8" airtemperature="15.2" />
+<reading time="14:27:00.0000 21 May 2015" tracktemperature="21.9" airtemperature="15.3" />
+<reading time="14:28:00.0000 21 May 2015" tracktemperature="21.9" airtemperature="15.5" />
+<reading time="14:29:00.0000 21 May 2015" tracktemperature="21.4" airtemperature="15.4" />
+<reading time="14:30:00.0000 21 May 2015" tracktemperature="20.9" airtemperature="15.3" />
+<reading time="14:31:00.0000 21 May 2015" tracktemperature="20.5" airtemperature="15.3" />
+<reading time="14:32:00.0000 21 May 2015" tracktemperature="19.9" airtemperature="15.2" />
+<reading time="14:33:00.0000 21 May 2015" tracktemperature="19.9" airtemperature="15.2" />
+<reading time="14:34:00.0000 21 May 2015" tracktemperature="19.9" airtemperature="15.1" />
+<reading time="14:35:00.0000 21 May 2015" tracktemperature="19.4" airtemperature="15" />
+<reading time="14:36:00.0000 21 May 2015" tracktemperature="19.4" airtemperature="15" />
+<reading time="14:37:00.0000 21 May 2015" tracktemperature="19.5" airtemperature="15" />
+<reading time="14:38:00.0000 21 May 2015" tracktemperature="19.6" airtemperature="14.8" />
+<reading time="14:39:00.0000 21 May 2015" tracktemperature="19.4" airtemperature="14.9" />
+<reading time="14:40:00.0000 21 May 2015" tracktemperature="19.3" airtemperature="14.8" />
+<reading time="14:41:00.0000 21 May 2015" tracktemperature="19.2" airtemperature="14.8" />
+<reading time="14:42:00.0000 21 May 2015" tracktemperature="18.8" airtemperature="14.5" />
+<reading time="14:43:00.0000 21 May 2015" tracktemperature="18" airtemperature="14.2" />
+<reading time="14:44:00.0000 21 May 2015" tracktemperature="17.6" airtemperature="14.3" />
+<reading time="14:45:00.0000 21 May 2015" tracktemperature="17.5" airtemperature="13.9" />
+<reading time="14:46:00.0000 21 May 2015" tracktemperature="17.7" airtemperature="13.9" />
+<reading time="14:47:00.0000 21 May 2015" tracktemperature="18.1" airtemperature="14" />
+<reading time="14:48:00.0000 21 May 2015" tracktemperature="18.2" airtemperature="14" />
+<reading time="14:49:00.0000 21 May 2015" tracktemperature="18.5" airtemperature="14.1" />
+<reading time="14:50:00.0000 21 May 2015" tracktemperature="18.6" airtemperature="14" />
+<reading time="14:51:00.0000 21 May 2015" tracktemperature="18.7" airtemperature="14" />
+<reading time="14:52:00.0000 21 May 2015" tracktemperature="19.1" airtemperature="14" />
+<reading time="14:53:00.0000 21 May 2015" tracktemperature="19.3" airtemperature="14" />
+<reading time="14:54:00.0000 21 May 2015" tracktemperature="19.3" airtemperature="14.1" />
+<reading time="14:55:00.0000 21 May 2015" tracktemperature="19.4" airtemperature="14.1" />
+<reading time="14:56:00.0000 21 May 2015" tracktemperature="20.3" airtemperature="14.1" />
+<reading time="14:57:00.0000 21 May 2015" tracktemperature="20.4" airtemperature="14.2" />
+<reading time="14:58:00.0000 21 May 2015" tracktemperature="20.5" airtemperature="14.4" />
+<reading time="14:59:00.0000 21 May 2015" tracktemperature="20.7" airtemperature="14.5" />
+<reading time="15:00:00.0000 21 May 2015" tracktemperature="21.1" airtemperature="14.5" />
+<reading time="15:01:00.0000 21 May 2015" tracktemperature="21.2" airtemperature="14.6" />
+<reading time="15:02:00.0000 21 May 2015" tracktemperature="21.7" airtemperature="14.7" />
+<reading time="15:03:00.0000 21 May 2015" tracktemperature="21.9" airtemperature="14.6" />
+<reading time="15:04:00.0000 21 May 2015" tracktemperature="21.9" airtemperature="14.6" />
+<reading time="15:05:00.0000 21 May 2015" tracktemperature="22" airtemperature="14.7" />
+<reading time="15:06:00.0000 21 May 2015" tracktemperature="22" airtemperature="14.7" />
+<reading time="15:07:00.0000 21 May 2015" tracktemperature="22.1" airtemperature="14.9" />
+<reading time="15:08:00.0000 21 May 2015" tracktemperature="22.1" airtemperature="14.9" />
+<reading time="15:09:00.0000 21 May 2015" tracktemperature="21.8" airtemperature="15.1" />
+<reading time="15:10:00.0000 21 May 2015" tracktemperature="21.7" airtemperature="15.1" />
+<reading time="15:11:00.0000 21 May 2015" tracktemperature="21.4" airtemperature="15.1" />
+<reading time="15:12:00.0000 21 May 2015" tracktemperature="21.4" airtemperature="15.2" />
+<reading time="15:13:00.0000 21 May 2015" tracktemperature="21.3" airtemperature="15.3" />
+<reading time="15:14:00.0000 21 May 2015" tracktemperature="21.3" airtemperature="15.1" />
+<reading time="15:15:00.0000 21 May 2015" tracktemperature="20.9" airtemperature="15" />
+<reading time="15:16:00.0000 21 May 2015" tracktemperature="21.2" airtemperature="15.2" />
+<reading time="15:17:00.0000 21 May 2015" tracktemperature="21.2" airtemperature="15.3" />
+<reading time="15:18:00.0000 21 May 2015" tracktemperature="21.3" airtemperature="15.1" />
+<reading time="15:19:00.0000 21 May 2015" tracktemperature="21.2" airtemperature="15.2" />
+<reading time="15:20:00.0000 21 May 2015" tracktemperature="21.2" airtemperature="15.4" />
+<reading time="15:21:00.0000 21 May 2015" tracktemperature="21" airtemperature="15.6" />
+<reading time="15:22:00.0000 21 May 2015" tracktemperature="21" airtemperature="15.4" />
+<reading time="15:23:00.0000 21 May 2015" tracktemperature="21" airtemperature="15.4" />
+<reading time="15:24:00.0000 21 May 2015" tracktemperature="21.4" airtemperature="15.3" />
+<reading time="15:25:00.0000 21 May 2015" tracktemperature="21.5" airtemperature="15.6" />
+<reading time="15:26:00.0000 21 May 2015" tracktemperature="21.4" airtemperature="15.4" />
+<reading time="15:27:00.0000 21 May 2015" tracktemperature="21.4" airtemperature="15.4" />
+<reading time="15:28:00.0000 21 May 2015" tracktemperature="21.3" airtemperature="15.4" />
+<reading time="15:29:00.0000 21 May 2015" tracktemperature="21.3" airtemperature="15.2" />
+<reading time="15:30:00.0000 21 May 2015" tracktemperature="20.9" airtemperature="15.2" />
+</temperature>
+<humidity>
+<reading time="14:00:00.0000 21 May 2015" value="56" />
+<reading time="14:01:00.0000 21 May 2015" value="56" />
+<reading time="14:02:00.0000 21 May 2015" value="56" />
+<reading time="14:03:00.0000 21 May 2015" value="56" />
+<reading time="14:04:00.0000 21 May 2015" value="55" />
+<reading time="14:05:00.0000 21 May 2015" value="55" />
+<reading time="14:06:00.0000 21 May 2015" value="55" />
+<reading time="14:07:00.0000 21 May 2015" value="54" />
+<reading time="14:08:00.0000 21 May 2015" value="54" />
+<reading time="14:09:00.0000 21 May 2015" value="53" />
+<reading time="14:10:00.0000 21 May 2015" value="53" />
+<reading time="14:11:00.0000 21 May 2015" value="52" />
+<reading time="14:12:00.0000 21 May 2015" value="52" />
+<reading time="14:13:00.0000 21 May 2015" value="52" />
+<reading time="14:14:00.0000 21 May 2015" value="52" />
+<reading time="14:15:00.0000 21 May 2015" value="52" />
+<reading time="14:16:00.0000 21 May 2015" value="52" />
+<reading time="14:17:00.0000 21 May 2015" value="52" />
+<reading time="14:18:00.0000 21 May 2015" value="52" />
+<reading time="14:19:00.0000 21 May 2015" value="52" />
+<reading time="14:20:00.0000 21 May 2015" value="52" />
+<reading time="14:21:00.0000 21 May 2015" value="52" />
+<reading time="14:22:00.0000 21 May 2015" value="52" />
+<reading time="14:23:00.0000 21 May 2015" value="53" />
+<reading time="14:24:00.0000 21 May 2015" value="53" />
+<reading time="14:25:00.0000 21 May 2015" value="53" />
+<reading time="14:26:00.0000 21 May 2015" value="52" />
+<reading time="14:27:00.0000 21 May 2015" value="53" />
+<reading time="14:28:00.0000 21 May 2015" value="53" />
+<reading time="14:29:00.0000 21 May 2015" value="52" />
+<reading time="14:30:00.0000 21 May 2015" value="52" />
+<reading time="14:31:00.0000 21 May 2015" value="53" />
+<reading time="14:32:00.0000 21 May 2015" value="53" />
+<reading time="14:33:00.0000 21 May 2015" value="54" />
+<reading time="14:34:00.0000 21 May 2015" value="54" />
+<reading time="14:35:00.0000 21 May 2015" value="55" />
+<reading time="14:36:00.0000 21 May 2015" value="55" />
+<reading time="14:37:00.0000 21 May 2015" value="57" />
+<reading time="14:38:00.0000 21 May 2015" value="55" />
+<reading time="14:39:00.0000 21 May 2015" value="57" />
+<reading time="14:40:00.0000 21 May 2015" value="57" />
+<reading time="14:41:00.0000 21 May 2015" value="58" />
+<reading time="14:42:00.0000 21 May 2015" value="63" />
+<reading time="14:43:00.0000 21 May 2015" value="65" />
+<reading time="14:44:00.0000 21 May 2015" value="67" />
+<reading time="14:45:00.0000 21 May 2015" value="66" />
+<reading time="14:46:00.0000 21 May 2015" value="66" />
+<reading time="14:47:00.0000 21 May 2015" value="67" />
+<reading time="14:48:00.0000 21 May 2015" value="67" />
+<reading time="14:49:00.0000 21 May 2015" value="67" />
+<reading time="14:50:00.0000 21 May 2015" value="67" />
+<reading time="14:51:00.0000 21 May 2015" value="68" />
+<reading time="14:52:00.0000 21 May 2015" value="68" />
+<reading time="14:53:00.0000 21 May 2015" value="68" />
+<reading time="14:54:00.0000 21 May 2015" value="68" />
+<reading time="14:55:00.0000 21 May 2015" value="65" />
+<reading time="14:56:00.0000 21 May 2015" value="66" />
+<reading time="14:57:00.0000 21 May 2015" value="64" />
+<reading time="14:58:00.0000 21 May 2015" value="65" />
+<reading time="14:59:00.0000 21 May 2015" value="66" />
+<reading time="15:00:00.0000 21 May 2015" value="65" />
+<reading time="15:01:00.0000 21 May 2015" value="67" />
+<reading time="15:02:00.0000 21 May 2015" value="63" />
+<reading time="15:03:00.0000 21 May 2015" value="62" />
+<reading time="15:04:00.0000 21 May 2015" value="62" />
+<reading time="15:05:00.0000 21 May 2015" value="62" />
+<reading time="15:06:00.0000 21 May 2015" value="62" />
+<reading time="15:07:00.0000 21 May 2015" value="61" />
+<reading time="15:08:00.0000 21 May 2015" value="60" />
+<reading time="15:09:00.0000 21 May 2015" value="61" />
+<reading time="15:10:00.0000 21 May 2015" value="59" />
+<reading time="15:11:00.0000 21 May 2015" value="61" />
+<reading time="15:12:00.0000 21 May 2015" value="59" />
+<reading time="15:13:00.0000 21 May 2015" value="60" />
+<reading time="15:14:00.0000 21 May 2015" value="58" />
+<reading time="15:15:00.0000 21 May 2015" value="58" />
+<reading time="15:16:00.0000 21 May 2015" value="59" />
+<reading time="15:17:00.0000 21 May 2015" value="60" />
+<reading time="15:18:00.0000 21 May 2015" value="58" />
+<reading time="15:19:00.0000 21 May 2015" value="58" />
+<reading time="15:20:00.0000 21 May 2015" value="60" />
+<reading time="15:21:00.0000 21 May 2015" value="60" />
+<reading time="15:22:00.0000 21 May 2015" value="58" />
+<reading time="15:23:00.0000 21 May 2015" value="58" />
+<reading time="15:24:00.0000 21 May 2015" value="58" />
+<reading time="15:25:00.0000 21 May 2015" value="58" />
+<reading time="15:26:00.0000 21 May 2015" value="57" />
+<reading time="15:27:00.0000 21 May 2015" value="58" />
+<reading time="15:28:00.0000 21 May 2015" value="57" />
+<reading time="15:29:00.0000 21 May 2015" value="54" />
+<reading time="15:30:00.0000 21 May 2015" value="56" />
+</humidity>
+</report>
